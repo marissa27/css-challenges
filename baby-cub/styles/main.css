@@ -1,1 +1,6 @@
 @import url('face.css');
+@import url('ears.css');
+
+.head {
+  width: 300px;
+}
