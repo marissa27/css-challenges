@@ -2,6 +2,7 @@
 @import url('ears.css');
 @import url('eyes.css');
 @import url('nose.css');
+@import url('mouth.css');
 
 .head {
   width: 300px;
