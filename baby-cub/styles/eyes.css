@@ -1,0 +1,18 @@
+.left-eye,
+.right-eye {
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+  background-color: #201109;
+  margin-top: -150px;
+}
+
+.left-eye {
+  float: left;
+  margin-left: 70px;
+}
+
+.right-eye {
+  float: right;
+  margin-right: 70px;
+}

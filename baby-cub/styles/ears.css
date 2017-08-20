@@ -20,14 +20,13 @@
   width: 50px;
   background-color: #673213;
   border-radius: 50px;
+  margin: 12px 0 0 10px;
 }
 
 .left-inner-ear {
   border-bottom-right-radius: 60px 56px;
-  margin: 12px 0 0 10px;
 }
 
 .right-inner-ear {
   border-bottom-left-radius: 60px 56px;
-  margin: 12px 0 0 10px;
 }
