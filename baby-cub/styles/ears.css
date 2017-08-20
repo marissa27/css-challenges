@@ -1,0 +1,33 @@
+.left-ear,
+.right-ear {
+  height: 70px;
+  width: 70px;
+  background-color: #4e2510;
+  border-radius: 50px;
+}
+
+.left-ear {
+  float: left;
+}
+
+.right-ear {
+  float: right;
+}
+
+.left-inner-ear,
+.right-inner-ear {
+  height: 45px;
+  width: 50px;
+  background-color: #673213;
+  border-radius: 50px;
+}
+
+.left-inner-ear {
+  border-bottom-right-radius: 60px 56px;
+  margin: 12px 0 0 10px;
+}
+
+.right-inner-ear {
+  border-bottom-left-radius: 60px 56px;
+  margin: 12px 0 0 10px;
+}
