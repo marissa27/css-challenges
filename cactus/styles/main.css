@@ -13,3 +13,8 @@ article {
   margin: 0 auto;
   width: 100%;
 }
+
+hr {
+  margin-top: 15px;
+  border-color: brown;
+}
