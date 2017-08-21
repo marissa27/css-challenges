@@ -1,14 +1,14 @@
 .pot {
-  height: 145px;
-  width: 212px;
+  height: 115px;
+  width: 190px;
   background-color: brown;
-  border-bottom-left-radius: 100px 212px;
-  border-bottom-right-radius: 100px 212px;
+  border-bottom-left-radius: 120px 212px;
+  border-bottom-right-radius: 120px 212px;
 }
 
 .pot-top {
-  height: 50px;
-  width: 230px;
+  height: 45px;
+  width: 202px;
   background-color: coral;
-  border-radius: 5%;
+  border-radius: 5px;
 }
