@@ -1,0 +1,39 @@
+.small-loner-a {
+  width: 40px;
+  height: 45px;
+  background-color: green;
+  position: absolute;
+  margin: -90px;
+  border-top-left-radius: 17px;
+  border-top-right-radius: 19px;
+}
+
+.small-loner-b {
+  width: 70px;
+  height: 37px;
+  background-color: green;
+  position: absolute;
+  margin: -50px -75px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 25px;
+}
+
+.small-loner-c {
+  width: 30px;
+  height: 36px;
+  background-color: green;
+  position: absolute;
+  margin: -142px 83px;
+  border-top-left-radius: 17px;
+  border-top-right-radius: 19px;
+}
+
+.small-loner-d {
+  width: 63px;
+  height: 30px;
+  background-color: green;
+  position: absolute;
+  margin: -113px 66px;
+  border-bottom-left-radius: 38px;
+  border-bottom-right-radius: 51px;
+}
