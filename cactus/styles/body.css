@@ -1,0 +1,7 @@
+.body {
+  height: 225px;
+  width: 95px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  background-color: green;
+}
