@@ -5,3 +5,31 @@
   border-top-right-radius: 50px;
   background-color: green;
 }
+
+.thorns-a {
+  margin: 15px -14px;
+}
+
+.thorns-b {
+  margin: -179px 78px;
+}
+
+.thorn {
+  margin-bottom: 15px;
+  width: 0;
+  height: 0;
+  border-bottom: 25px solid;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom-color: green;
+}
+
+.thorn-b {
+  margin-bottom: 15px;
+  width: 0;
+  height: 0;
+  border-bottom: 25px solid;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom-color: green;
+}
