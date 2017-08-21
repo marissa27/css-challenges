@@ -1,0 +1,14 @@
+.pot {
+  height: 33%;
+  width: 31%;
+  background-color: brown;
+  border-bottom-left-radius: 33% 90%;
+  border-bottom-right-radius: 33% 90%;
+}
+
+.pot-top {
+  height: 10%;
+  width: 33%;
+  background-color: coral;
+  border-radius: 5%;
+}
